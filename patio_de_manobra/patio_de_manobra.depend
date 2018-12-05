@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1544032667 source:c:\users\blank\desktop\patio_de_manobra\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"patio.h"
+
+1544030157 c:\users\blank\desktop\patio_de_manobra\pilha.h
+	<stdio.h>
+	<stdlib.h>
+
+1544031151 c:\users\blank\desktop\patio_de_manobra\patio.h
+	"pilha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1544032610 source:c:\users\blank\desktop\patio_de_manobra\pilha.c
+	"pilha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1544033512 source:c:\users\blank\desktop\patio_de_manobra\patio.c
+	"pilha.h"
+	"patio.h"
+	<stdio.h>
+	<stdlib.h>
+
